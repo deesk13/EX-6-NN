@@ -65,10 +65,9 @@ print("\nConfusion Matrix:")
 print(conf_matrix)
 print("\nClassification Report:")
 print(classification_rep)
-
 ```
 
-<H3>Output:</H3>
+## Output:
 
 ![Screenshot 2025-05-14 185234](https://github.com/user-attachments/assets/6284fa48-05b8-4d6a-b555-5a29c9c78077)
 
